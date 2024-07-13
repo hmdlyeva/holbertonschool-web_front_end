@@ -1,12 +1,12 @@
 html {
   scroll-behavior: smooth;
 }
-body,
-a {
+body {
+  font-family: var(--font-family-base);
   color: var(--text-color);
 }
-body{
-    font-family: var(--font-family-base);
+a {
+  color: var(--text-color);
 }
 h1,
 h2,
